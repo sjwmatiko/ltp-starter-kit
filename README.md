@@ -68,8 +68,8 @@ If you encounter any errors, try running the following commands:
     php artisan config:clear
     php artisan route:clear
     php artisan view:clear
-
-
+   ```
+   
 If you're using Laravel Sail, replace `php` with `sail` in the commands.
 
 AMA: sjwmatiko.dev@gmail.com
